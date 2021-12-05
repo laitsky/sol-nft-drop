@@ -1,0 +1,19 @@
+{
+  "name": "Pepe",
+  "symbol": "",
+  "image": "5.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "7GXzjsHeFge3KGJDdRt2znee4VSNkwm6ej7MxRZndHAG",
+        "share": 100
+      }
+    ]
+  }
+}
